@@ -8,6 +8,7 @@ Real-time Data Fetching: Utilized yfinance API to fetch real-time stock data, in
 User Inputs: Implemented input fields for users to select stock tickers and date ranges for customized analysis.
 Data Visualization: Created interactive line plots and bar charts using Plotly to visualize stock price trends and moving averages (50-day and 200-day).
 Statistical Analysis: Displayed statistical summaries for stock prices, including opening and adjusted closing prices.
+Correlation between stocks.
 
 Technical Stack:
 
